@@ -16,7 +16,7 @@ do_overlap | verifies whether is there any overlap in a given set of 2D rectangl
 Clone the repository and run the following from the root folder
 
 ```
-conda creat -n <my env name> python=<ver> #ver > 3.6
+conda create -n <my env name> python=<ver> #ver > 3.6
 conda activate <my env name>
 python setup.py install
 
