@@ -33,6 +33,6 @@ setup(
         "overlap_check/config": ["overlap_check/config/*.conf"]
     },
     include_package_data=True,
-    #project_urls={"Source": "git@github.com:pppp"},
+    project_urls={"Source": "git@github.com:Milad-diconium/Rect_Over.git"},
     install_requires=requirements,
 )
