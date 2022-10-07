@@ -49,7 +49,7 @@ Test the installation by executing following on activate conda env
 ```
 
 ## Testing 
-There is a sample jupyter notebook script which can also be used as template in order to test the SD.
+There is a sample jupyter notebook script which can also be used as template in order to test the SDK.
 It is located under:
 ```
  tests/overlap_checker.ipynb
