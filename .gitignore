@@ -1,0 +1,7 @@
+build/*
+dist/*
+*.egg
+overlap_check.egg*
+*.pyc
+*.log
+tests/.ipynb_checkpoints

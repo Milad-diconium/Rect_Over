@@ -1,0 +1,6 @@
+# Install the module with dependencies defined in setup.py
+pyopenssl==22.0.0
+polling2==0.5.0
+overrides
+types-six
+six
